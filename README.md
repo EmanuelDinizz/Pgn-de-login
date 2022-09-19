@@ -9,7 +9,7 @@ Projeto construído e aplicado com bases em estudos de HTML5 e CSS3.
 
 Aplicando os conceitos estudados para criar uma login page.
 
-[Clique aqui para acessar](https://emanueldinizz.github.io/Nav_Bar)
+[Clique aqui para acessar](https://emanueldinizz.github.io/Pgn-de-login)
 
 ## 🖥️ Tecnologias
 
@@ -20,5 +20,5 @@ Aplicando os conceitos estudados para criar uma login page.
 
 ## Contato 
 
-emanueldiniz34@gmail.com
+emanueldiniz34@gmail.com --
 LinkedIn: emanueldinizz
